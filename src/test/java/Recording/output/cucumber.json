@@ -1,0 +1,669 @@
+[
+  {
+    "line": 20,
+    "elements": [
+      {
+        "start_timestamp": "2019-09-24T09:34:25.212Z",
+        "line": 35,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3002300,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am a good tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "good",
+                  "offset": 7
+                }
+              ],
+              "location": "Sep.I_am_type_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 137300,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I go to work",
+            "match": {
+              "location": "Sep.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 355300,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I complete it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "complete",
+                  "offset": 2
+                }
+              ],
+              "location": "Sep.I_work_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 124700,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "My boss salutesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "salutes",
+                  "offset": 8
+                }
+              ],
+              "location": "Sep.My_Boss_Mood(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 171800,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the developer hatesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "hates",
+                  "offset": 14
+                }
+              ],
+              "location": "Sep.the_developer(String)"
+            },
+            "keyword": "But "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-09-24T09:34:25.356Z",
+        "line": 36,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 179900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am a bad tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "bad",
+                  "offset": 7
+                }
+              ],
+              "location": "Sep.I_am_type_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 65900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I go to work",
+            "match": {
+              "location": "Sep.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 172000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I mess it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mess",
+                  "offset": 2
+                }
+              ],
+              "location": "Sep.I_work_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 455500,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "My boss Firesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Fires",
+                  "offset": 8
+                }
+              ],
+              "location": "Sep.My_Boss_Mood(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 405100,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the developer lovesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "loves",
+                  "offset": 14
+                }
+              ],
+              "location": "Sep.the_developer(String)"
+            },
+            "keyword": "But "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-09-24T09:34:25.362Z",
+        "line": 37,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 212000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am a avg tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "avg",
+                  "offset": 7
+                }
+              ],
+              "location": "Sep.I_am_type_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 63900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I go to work",
+            "match": {
+              "location": "Sep.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 65600,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I satisfies it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "satisfies",
+                  "offset": 2
+                }
+              ],
+              "location": "Sep.I_work_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 57100,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "My boss congratulatesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "congratulates",
+                  "offset": 8
+                }
+              ],
+              "location": "Sep.My_Boss_Mood(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 111900,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the developer respectsme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "respects",
+                  "offset": 14
+                }
+              ],
+              "location": "Sep.the_developer(String)"
+            },
+            "keyword": "But "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Life of Tester",
+    "description": "in order to get good salary\nAs a IT guy\nI want to keep my boss happy",
+    "id": "life-of-tester",
+    "keyword": "Feature",
+    "uri": "classpath:tester/chary/cucu.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 20,
+    "elements": [
+      {
+        "start_timestamp": "2019-09-24T09:34:25.365Z",
+        "line": 35,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 199500,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am a good tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "good",
+                  "offset": 7
+                }
+              ],
+              "location": "Sep.I_am_type_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 74900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I go to work",
+            "match": {
+              "location": "Sep.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 94800,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I complete it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "complete",
+                  "offset": 2
+                }
+              ],
+              "location": "Sep.I_work_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 257400,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "My boss salutesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "salutes",
+                  "offset": 8
+                }
+              ],
+              "location": "Sep.My_Boss_Mood(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 591400,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the developer hatesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "hates",
+                  "offset": 14
+                }
+              ],
+              "location": "Sep.the_developer(String)"
+            },
+            "keyword": "But "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@charan"
+          },
+          {
+            "name": "@chakri"
+          },
+          {
+            "name": "@sai"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-09-24T09:34:25.378Z",
+        "line": 36,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1007000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am a bad tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "bad",
+                  "offset": 7
+                }
+              ],
+              "location": "Sep.I_am_type_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 254700,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I go to work",
+            "match": {
+              "location": "Sep.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 112100,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I mess it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mess",
+                  "offset": 2
+                }
+              ],
+              "location": "Sep.I_work_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 263600,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "My boss Firesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Fires",
+                  "offset": 8
+                }
+              ],
+              "location": "Sep.My_Boss_Mood(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 184900,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the developer lovesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "loves",
+                  "offset": 14
+                }
+              ],
+              "location": "Sep.the_developer(String)"
+            },
+            "keyword": "But "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@charan"
+          },
+          {
+            "name": "@chakri"
+          },
+          {
+            "name": "@sai"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-09-24T09:34:25.381Z",
+        "line": 37,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 364000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am a avg tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "avg",
+                  "offset": 7
+                }
+              ],
+              "location": "Sep.I_am_type_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 117300,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I go to work",
+            "match": {
+              "location": "Sep.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 300200,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I satisfies it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "satisfies",
+                  "offset": 2
+                }
+              ],
+              "location": "Sep.I_work_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 307100,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "My boss congratulatesme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "congratulates",
+                  "offset": 8
+                }
+              ],
+              "location": "Sep.My_Boss_Mood(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 324700,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the developer respectsme",
+            "match": {
+              "arguments": [
+                {
+                  "val": "respects",
+                  "offset": 14
+                }
+              ],
+              "location": "Sep.the_developer(String)"
+            },
+            "keyword": "But "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@charan"
+          },
+          {
+            "name": "@chakri"
+          },
+          {
+            "name": "@sai"
+          }
+        ]
+      }
+    ],
+    "name": "Life of Tester",
+    "description": "in order to get good salary\nAs a IT guy\nI want to keep my boss happy",
+    "id": "life-of-tester",
+    "keyword": "Feature",
+    "uri": "classpath:tester/req1.feature",
+    "tags": [
+      {
+        "name": "@charan",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
